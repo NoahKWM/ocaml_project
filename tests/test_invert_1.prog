@@ -1,0 +1,2 @@
+W(a);R;W(b);R;W(c);R;W(d);L;I; # ici le curseur est sur c, pour preuve on va l'écraser en écrivant C
+W(C);
